@@ -1,4 +1,4 @@
-kivy==2.0
-plyer
-kivymd_extensions.sweetalert
-kaki
+kivy~=2.2.1
+plyer~=2.1.0
+kaki~=0.1.9
+kivymd~=1.1.1

@@ -14,7 +14,7 @@ from kivymd.uix.screen import MDScreen
 from kivymd_extensions.sweetalert import SweetAlert
 from plyer import filechooser
 
-from libs.applibs import utils
+import utils
 
 from constants import BASE_TEMPLATE_FOLDER, MISC_FOLDER, TEMPLATES_FOLDER
 

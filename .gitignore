@@ -3,6 +3,7 @@
 # Byte-compiled
 __pycache__
 kenv
+.idea
 *.py[cod]
 *$py.class
 *.pyc
